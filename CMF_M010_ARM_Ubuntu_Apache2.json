@@ -184,7 +184,7 @@
           "fileUris": [
             "https://raw.githubusercontent.com/servicenowcmf/shellscripts/master/installubuntuapache.sh"
           ],
-          "commandToExecute": "sh installubuntuapache.sh"
+          "commandToExecute": "./installubuntuapache.sh"
         }
       }
     }
